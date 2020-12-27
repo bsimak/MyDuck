@@ -1,3 +1,7 @@
+package behavior;
+
+import behavior.FlyBehavior;
+
 public class FlyNoWay implements FlyBehavior {
     @Override
     public void fly() {
